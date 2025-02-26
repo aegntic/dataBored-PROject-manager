@@ -1,11 +1,13 @@
-# t00rProject
+# dataBored-PROject-manager
+
 how to start and finish projects successfully. 
 
-# t00rProject
+# dataBored-PROject-manager
 
-**t00rProject** is a modern, AI-powered project management tool designed to be the antithesis of projection—focusing on real-time collaboration, efficiency, and cutting-edge technology. Inspired by tools like Dart, notProjecting enhances project management with AI-driven task breakdown, media generation, Solana blockchain integration, and self-generating AI agents that collaborate like a professional team.
 
-The name "t00rProject" is a playful nod to the tool’s focus on actionable, real-time insights rather than mere projections.
+**dataBored-PROject-manager** is a modern, AI-powered project management tool designed to be the antithesis of projection—focusing on real-time collaboration, efficiency, and cutting-edge technology. Inspired by tools like Dart, notProjecting enhances project management with AI-driven task breakdown, media generation, Solana blockchain integration, and self-generating AI agents that collaborate like a professional team.
+
+The name "dataBored-PROject-manager" is a playful nod to the tool’s focus on actionable, real-time insights rather than mere projections.
 
 ## Features
 
